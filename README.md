@@ -61,9 +61,8 @@ The notebook can be pushed to your GitHub repository for version control and col
    - Save the Kaggle notebook.
    - Select your repository and branch for the upload.
 
-## Folder Structure
+## Folder Structure in Kaggle
 
-### In Kaggle:
 ```
 /kaggle/input/
 ├── week-of-november-08-2024/      # Dataset folder for recent releases
@@ -71,15 +70,6 @@ The notebook can be pushed to your GitHub repository for version control and col
 ├── metal-subgenres/               # Subgenre list folder
 │   └── subgenres.txt
 MetalAgent.ipynb                   # Notebook file
-```
-
-### In GitHub:
-```
-MetalAgent/
-├── data/                          # Place for datasets
-├── src/                           # Code for custom functions (optional)
-├── MetalAgent.ipynb               # Notebook file
-└── README.md                      # Documentation
 ```
 
 ## Contribution
