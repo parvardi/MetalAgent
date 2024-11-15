@@ -4,14 +4,12 @@
 
 **MetalAgent** is a Kaggle notebook integrated with GitHub, designed to act as a personalized recommendation system for metal music enthusiasts. Using LangGraph and LangChain, MetalAgent provides curated recommendations, explores subgenres, and engages in interactive conversations about recent releases.
 
-
 ## Features
 
 - **Kaggle Integration**: Uses Kaggle datasets for recent releases and subgenre lists.
 - **Dynamic Recommendations**: Provides personalized metal music suggestions based on genres or subgenres.
 - **Interactive Conversation**: Chatbot functionality for exploring metal genres and band histories.
 - **Modular Design**: Built using LangGraph to manage conversation flow and LangChain to process natural language.
-
 
 ## How to Use
 
@@ -36,8 +34,6 @@ Run the following command in a notebook cell:
 ### 5. Execute the Notebook
 - Follow the cells step by step to initialize the chatbot and begin using MetalAgent.
 
----
-
 ## Interactions
 
 - **Start the Chat**: 
@@ -53,8 +49,6 @@ Run the following command in a notebook cell:
 - **Exit the Conversation**:
   - Type `q`, `quit`, or `exit` to end the chat.
 
----
-
 ## Integration with GitHub
 
 The notebook can be pushed to your GitHub repository for version control and collaboration. 
@@ -66,8 +60,6 @@ The notebook can be pushed to your GitHub repository for version control and col
    - Use Kaggle's **"Link to GitHub"** option.
    - Save the Kaggle notebook.
    - Select your repository and branch for the upload.
-
----
 
 ## Folder Structure
 
@@ -90,21 +82,15 @@ MetalAgent/
 └── README.md                      # Documentation
 ```
 
----
-
 ## Contribution
 
 1. Fork the repository on GitHub.
 2. Make your changes and submit a pull request.
 3. Contributions related to additional subgenre tools, better recommendation algorithms, or live database integration are welcome.
 
----
-
 ## License
 
 This project is licensed under the MIT License.
-
----
 
 ## Credits
 
